@@ -1,0 +1,5 @@
+Dark theme setup
+============================
+[] create theme provider
+[] wrap root layout
+[] add mode toggle for theme
